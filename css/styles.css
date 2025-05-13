@@ -64,7 +64,7 @@ img{
   line-height: 1.5;
   /* Puedes cambiarla luego */
   background-color: var(--first-color);
-  background-image: url(/multimedia/foto-presentacion.jpg);
+  background-image: url(multimedia/foto-presentacion.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -199,7 +199,7 @@ img{
   }
 /*---------pagina contacto y formulario*/
 .contacto{
-  background-image: url(/multimedia/foto-blancoynegro.jpg);
+  background-image: url(multimedia/foto-blancoynegro.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
